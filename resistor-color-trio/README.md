@@ -1,5 +1,10 @@
 # Resistor Color Trio
 
+Welcome to Resistor Color Trio on Exercism's C Track.
+If you need help running the tests or submitting your code, check out `HELP.md`.
+
+## Instructions
+
 If you want to build something using a Raspberry Pi, you'll probably use _resistors_. For this exercise, you need to know only three things about them:
 
 - Each resistor has a resistance value.
@@ -44,40 +49,16 @@ So an input of `"orange", "orange", "orange"` should return:
 
 > "33 kiloohms"
 
-## Getting Started
-
-Make sure you have read the "Guides" section of the
-[C track][c-track] on the Exercism site. This covers
-the basic information on setting up the development environment expected
-by the exercises.
-
-## Passing the Tests
-
-Get the first test compiling, linking and passing by following the [three
-rules of test-driven development][3-tdd-rules].
-
-The included makefile can be used to create and run the tests using the `test`
-task.
-
-    make test
-
-Create just the functions you need to satisfy any compiler errors and get the
-test to fail. Then write just enough code to get the test to pass. Once you've
-done that, move onto the next test.
-
-As you progress through the tests, take the time to refactor your
-implementation for readability and expressiveness and then go on to the next
-test.
-
-Try to use standard C99 facilities in preference to writing your own
-low-level algorithms or facilities by hand.
-
 ## Source
 
-Maud de Vries, Erik Schierboom [https://github.com/exercism/problem-specifications/issues/1549](https://github.com/exercism/problem-specifications/issues/1549)
+### Created by
 
-## Submitting Incomplete Solutions
-It's possible to submit an incomplete solution so you can see how others have completed the exercise.
+- @wolf99
 
-[c-track]: https://exercism.io/my/tracks/c
-[3-tdd-rules]: http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
+### Contributed to by
+
+- @ryanplusplus
+
+### Based on
+
+Maud de Vries, Erik Schierboom - https://github.com/exercism/problem-specifications/issues/1549
